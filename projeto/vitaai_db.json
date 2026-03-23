@@ -1,0 +1,16 @@
+{
+  "users": {
+    "cauan675": {
+      "username": "cauan675",
+      "password": "48eaff031339feae6102ba89b8b136a30113cb4607ff37c3ea03b35e3b1a1604",
+      "name": "Cauan Santana",
+      "age": "22",
+      "gender": "Masculino",
+      "created_at": "2026-03-23T17:01:33.060699",
+      "diary": [],
+      "medications": [],
+      "symptom_history": [],
+      "measurements": []
+    }
+  }
+}
