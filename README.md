@@ -1,0 +1,3 @@
+O sistema permite o registro de informações pessoais de saúde, como sintomas, medições fisiológicas e uso de medicamentos, organizando esses dados em um painel inteligente. Além disso, integra recursos de inteligência artificial para fornecer orientações iniciais, triagem de sintomas e análise de exames, contribuindo para uma melhor compreensão do estado de saúde do usuário.
+
+O público-alvo inclui pessoas que desejam monitorar sua saúde no dia a dia, bem como indivíduos que buscam um apoio inicial antes de procurar atendimento médico. Entre os principais benefícios estão a organização das informações, facilidade de uso e acesso rápido a insights relevantes.
